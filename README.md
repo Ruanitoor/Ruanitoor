@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Ruanitoor">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruanitoor&show_icons=true&theme=midnight-purple" alt="Ruanitoor github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluketa&layout=compact&hide_border=true&title_color=989898&text_color=5400A9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluketa&layout=compact&hide_border=true&title_color=5400A9&text_color=767676&bg_color=0d1117" />
 </div>
 
 ## My technologies 
