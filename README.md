@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5400A9&random=false&width=435&lines=Hello%2C+my+name+is+Ruan+Pardim;+I'm+a+computer+scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&color=5400A9&random=false&width=435&lines=Hello%2C+my+name+is+Ruan+Pardim;+I'm+a+computer+scientist)](https://git.io/typing-svg)
 
 ![Ruanitoor GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanitoor&show_icons=true&theme=midnight-purple)
 <!--
