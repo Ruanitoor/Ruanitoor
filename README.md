@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Ruanitoor">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruanitoor&show_icons=true&theme=midnight-purple" alt="Ruanitoor github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanitoor&layout=compact&langs_count=6&theme=midnight-purple"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanitoor&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
 ## My technologies 
